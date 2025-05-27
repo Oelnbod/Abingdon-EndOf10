@@ -1,7 +1,2 @@
-# Abingdon-EndOf10
-Information about the Abingdon EndOf10 GNU/Linux install event.
-We are running from 10am-3pm on the 28th of June.
-Please come along, we don't bite.
+# Abingdon-EndOf10 Volunteer information, if not a volunteer please visit oelnbod.github.io/eo10
 
-  
-More information  to come!
