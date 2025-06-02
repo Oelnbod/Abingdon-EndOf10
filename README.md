@@ -16,3 +16,4 @@ We need fast (but slower potentially) storage to facilitate backup of data (whic
 
 When installing distros onto USB sticks, make sure that they are DVD images (i.e., all files are available on the drive), we have very limited bandwidth (I think ~10Mb/s) and I want to prioritise this for packages. Also, flash the drives using Ventoy (even if three is only 1 distro on the drive), this allows us to re-image the drive by only copying files and not requiring us to flash it normally. If Ventoy uses up too much space, as to prevent flashing the drive, then don't use it.  
 
+#### If you want to chat, use the discussions feature above. 
