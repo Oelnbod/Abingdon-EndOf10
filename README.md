@@ -14,6 +14,12 @@ We need fast (but slower potentially) storage to facilitate backup of data (whic
 - lastOS?
 - solus budgie ~3GB (low priority)
 
-When installing distros onto USB sticks, make sure that they are DVD images (i.e., all files are available on the drive), we have very limited bandwidth (I think ~10Mb/s) and I want to prioritise this for packages. Also, flash the drives using Ventoy (even if three is only 1 distro on the drive), this allows us to re-image the drive by only copying files and not requiring us to flash it normally. If Ventoy uses up too much space, as to prevent flashing the drive, then don't use it.  
+When installing distros onto USB sticks, make sure that they are DVD images (i.e., all files are available on the drive), we have very limited bandwidth (I think ~10Mb/s) and I want to prioritise this for packages. Also, flash the drives using Ventoy (even if three is only 1 distro on the drive), this allows us to re-image the drive by only copying files and not requiring us to flash it normally. If Ventoy uses up too much space, as to prevent flashing the drive, then don't use it. 
+
+### My current plan for the day:
+1. With some demo computers (use vms) we can demonstrate some Linux distros, we need a distribution of GNOME/KDE/other desktop environments. This is to help them pick distro. We can also use https://distrochooser.de/ or similar. 
+2. We then walk them through backing their data up, probably to one of our drives. I hope that they have backed up data already. We do need to check as on Windows you can upgrade or reinstall without losing their /home equivalent. We also need to ensure that saved passwords are backed up, as many people only save them to their web browser.
+3. We check the above and remind them about data loss. Also note: stuff that appears in the onedrive may just be in a folder called onedrive that has the logo, but does not sync to onedrive.
+4. TBC...
 
 #### If you want to chat, use the discussions feature above. 
