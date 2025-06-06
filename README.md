@@ -25,5 +25,8 @@ When installing distros onto USB sticks, make sure that they are DVD images (i.e
 6.  We then have to help them learn how to use Linux. I have some pointers on a card here: https://collaborate.kde.org/s/Yr89DANzaJ9gmxC (I'll print some off beforehand and the library has printers if we're in a pinch).
 7.  Installing software, we can install bottles/wine for them if they need MS Office apps (this looks good for onedrive syncing: https://github.com/bpozdena/OneDriveGUI). Remind them of the disadvantages of bottles/wine (also on card). If they find LibreOffice to unfamilliar, OnlyOffice is also available and FOSS (it looks more like MS Office), it is also on the chromeboxes in the Library. Any other software we can help install. I might bring a drive with some common .deb and .rpm files (straight from the apt/rpm repos to support automatic updates) on it to help ease bandwidth. Also note: *do not install update*, we should make them do them at home due to the limited bandwidth.
 
-#### If you want to chat, use the discussions feature above. 
+#### If you want to chat, use the discussions feature above. If you would prefer matrix/whatsapp/signal/etc, please let me know and we can switch.
 #### Could you also let me know of what drives you have available as installation medium so that we can manage distro distribution. 
+
+
+# Thank You! ❤️
