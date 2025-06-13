@@ -13,6 +13,7 @@ We need fast (but slower potentially) storage to facilitate backup of data (whic
 - ChromeOS Flex ~*6.8*GB (the .bin it provides needs to be renamed as a .img) prefer not as not in the spirit of endOf10 and FOSS and *very* large file
 - lastOS ~4GB 
 - solus budgie ~3GB (low priority)
+- Pop_OS! ~ 3.0GB with nvidia drivers - seems trivial to install kde on it and easier than nvidia drivers on others with our low bandwidth
 
 When installing distros onto USB sticks, make sure that they are DVD images (i.e., all files are available on the drive), we have very limited bandwidth (I think ~10Mb/s) and I want to prioritise this for packages. Also, flash the drives using Ventoy (even if three is only 1 distro on the drive), this allows us to re-image the drive by only copying files and not requiring us to flash it normally. If Ventoy uses up too much space, as to prevent flashing the drive, then don't use it. 
 
