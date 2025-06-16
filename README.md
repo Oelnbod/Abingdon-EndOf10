@@ -1,6 +1,8 @@
 # Abingdon-EndOf10 Volunteer information, if not a volunteer please visit [oelnbod.github.io/eo10](oelnbod.github.io/eo10).
 If you have storage available could you list it in storage.md, we need lots of fast storage and lots of large storage.
-We need fast (but slower potentially) storage to facilitate backup of data (which may be required) and fast storage (ideally USB3+, but USB2 does work) for installing the OS (particularly as DVD images are required). If you have storage that you can lend, please create a PR to add it to Storage.md .
+We need fast (but slower potentially) storage to facilitate backup of data (which may be required) and fast storage (ideally USB3+, but USB2 does work) for installing the OS (particularly as DVD images are required). If you have storage that you can lend, please create a PR to add it to Storage.md .  
+Also, if you have any laptops, could you bring them - so we can demonstrate the various distros. Feel free to load VMs onto them.
+
 
 ### Some notes on distro
 - zorin ~3.8GB
