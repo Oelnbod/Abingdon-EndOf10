@@ -13,7 +13,7 @@ Also, if you have any laptops, could you bring them - so we can demonstrate the 
 - kubuntu ~4.2GB
 - xubuntu ~4.0GB
 - ChromeOS Flex ~*6.8*GB (the .bin it provides needs to be renamed as a .img) prefer not as not in the spirit of endOf10 and FOSS and *very* large file
-- lastOS ~4GB 
+
 - solus budgie ~3GB (low priority)
 - Pop_OS! ~ 3.0GB with nvidia drivers - seems trivial to install kde on it and easier than nvidia drivers on others with our low bandwidth
 
