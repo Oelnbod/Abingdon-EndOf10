@@ -1,18 +1,18 @@
 # Abingdon-EndOf10 Volunteer information, if not a volunteer please visit [oelnbod.github.io/eo10](oelnbod.github.io/eo10).
 If you have storage available could you list it in storage.md, we need lots of fast storage and lots of large storage.
 We need fast (but slower potentially) storage to facilitate backup of data (which may be required) and fast storage (ideally USB3+, but USB2 does work) for installing the OS (particularly as DVD images are required). If you have storage that you can lend, please create a PR to add it to Storage.md .  
-Also, if you have any laptops, could you bring them - so we can demonstrate the various distros. Feel free to load VMs onto them. I have created some custom backgrounds: [https://mia.nl.tab.digital/s/TTgk6m3obHfgaAp](https://mia.nl.tab.digital/s/TTgk6m3obHfgaAp), that you can load onto these computers so people can know what distro it is.
+Also, if you have any laptops, could you bring them - so we can demonstrate the various distros. Feel free to load VMs onto them. I have created some custom backgrounds: [https://mia.nl.tab.digital/s/TTgk6m3obHfgaAp](https://mia.nl.tab.digital/s/TTgk6m3obHfgaAp), that you can load onto these computers so people can know what distro it is. I have also included website main pages - which it would be good to load up. Don't bother loading up chromeos as the library computers are chromeboxes - so we can just direct people there.
 
 
 ### Some notes on distro
-- zorin ~3.8GB
-- fedora KDE ~2.8GB
-- *fedora kionite* ~3.7GB
-- mint ~3GB
-- Ubuntu ~5.9GB
-- kubuntu ~4.2GB
-- xubuntu ~4.0GB
-- ChromeOS Flex ~*6.8*GB (the .bin it provides needs to be renamed as a .img) prefer not as not in the spirit of endOf10 and FOSS and *very* large file
+- zorin ~3.8GB [https://zorin.com/os/download/17/core/](https://zorin.com/os/download/17/core/), [https://zorin.com/os/down](https://zorin.com/os/download/17/core/)
+- fedora KDE ~2.8GB https://fedoraproject.org/kde/, https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-42-1.1.x86_64.iso
+- fedora kionite ~3.7GB https://fedoraproject.org/atomic-desktops/kinoite/ , https://download.fedoraproject.org/pub/fedora/linux/releases/42/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-42-1.1.iso
+- mint ~3GB https://www.linuxmint.com/ , https://www.linuxmint.com/edition.php?id=319
+- Ubuntu ~5.9GB [https://ubuntu.com/](https://ubuntu.com/desktop), https://releases.ubuntu.com/24.04.2/ubuntu-24.04.2-desktop-amd64.iso
+- kubuntu ~4.2GB https://kubuntu.org/ , https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso
+- xubuntu ~4.0GB https://xubuntu.org/ , https://xubuntu.org/download/#lts
+- ChromeOS Flex ~*6.8*GB (the .bin it provides needs to be renamed as a .img) prefer not as not in the spirit of endOf10 and FOSS and *very* large file https://dl.google.com/chromeos-flex/images/latest.bin.zip
 
 - solus budgie ~3GB (low priority)
 - Pop_OS! ~ 3.0GB with nvidia drivers - seems trivial to install kde on it and easier than nvidia drivers on others with our low bandwidth
