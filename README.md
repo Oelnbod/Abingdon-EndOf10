@@ -12,7 +12,7 @@ Also, if you have any laptops, could you bring them - so we can demonstrate the 
 - mint ~3GB https://www.linuxmint.com/ , https://www.linuxmint.com/edition.php?id=319 (not direct link, as multiple servers).
 - Ubuntu ~5.9GB [https://ubuntu.com/](https://ubuntu.com/desktop), https://releases.ubuntu.com/24.04.2/ubuntu-24.04.2-desktop-amd64.iso
 - kubuntu ~4.2GB https://kubuntu.org/ , https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso
-- xubuntu ~4.0GB https://xubuntu.org/ , https://xubuntu.org/download/#lts
+- xubuntu ~4.0GB https://xubuntu.org/ , https://xubuntu.org/download/#lts (same issue as mint).
 - ChromeOS Flex ~*6.8*GB (the .bin it provides needs to be renamed as a .img) prefer not as not in the spirit of endOf10 and FOSS and *very* large file https://dl.google.com/chromeos-flex/images/latest.bin.zip
 
 - solus budgie ~3GB (low priority)
