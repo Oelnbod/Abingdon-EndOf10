@@ -6,7 +6,7 @@ Also, if you have any laptops, could you bring them - so we can demonstrate the 
 
 
 ### Some notes on distro
-- zorin ~3.8GB [https://zorin.com/os/download/17/core/](https://zorin.com/os/download/17/core/), [https://zorin.com/os/down](https://zorin.com/os/download/17/core/)
+- zorin ~3.8GB [https://zorin.com/os/download/17/core/](https://zorin.com/os/download/17/core/), (https://zorin.com/os/download/17/core/)
 - fedora KDE ~2.8GB (I'm thinking about dropping this, as it doesn't offer much over kubuntu - which is slightly more mainstream. Please give me your opinions. I am open to dropping kubuntu and keeping this.) https://fedoraproject.org/kde/, https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-42-1.1.x86_64.iso
 - fedora kionite ~3.7GB https://fedoraproject.org/atomic-desktops/kinoite/ , https://download.fedoraproject.org/pub/fedora/linux/releases/42/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-42-1.1.iso
 - mint ~3GB https://www.linuxmint.com/ , https://www.linuxmint.com/edition.php?id=319
