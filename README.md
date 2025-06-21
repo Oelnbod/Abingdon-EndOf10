@@ -9,7 +9,7 @@ Also, if you have any laptops, could you bring them - so we can demonstrate the 
 - zorin ~3.8GB [https://zorin.com/os/](https://zorin.com/os/), https://zorin.com/os/download/17/core/
 - fedora KDE ~2.8GB (I'm thinking about dropping this, as it doesn't offer much over kubuntu - which is slightly more mainstream. Please give me your opinions. I am open to dropping kubuntu and keeping this.) https://fedoraproject.org/kde/, https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-42-1.1.x86_64.iso
 - fedora kionite ~3.7GB https://fedoraproject.org/atomic-desktops/kinoite/ , https://download.fedoraproject.org/pub/fedora/linux/releases/42/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-42-1.1.iso
-- mint ~3GB https://www.linuxmint.com/ , https://www.linuxmint.com/edition.php?id=319
+- mint ~3GB https://www.linuxmint.com/ , https://www.linuxmint.com/edition.php?id=319 (not direct link, as multiple servers).
 - Ubuntu ~5.9GB [https://ubuntu.com/](https://ubuntu.com/desktop), https://releases.ubuntu.com/24.04.2/ubuntu-24.04.2-desktop-amd64.iso
 - kubuntu ~4.2GB https://kubuntu.org/ , https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso
 - xubuntu ~4.0GB https://xubuntu.org/ , https://xubuntu.org/download/#lts
