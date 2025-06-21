@@ -14,9 +14,8 @@ Also, if you have any laptops, could you bring them - so we can demonstrate the 
 - kubuntu ~4.2GB https://kubuntu.org/ , https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso
 - xubuntu ~4.0GB https://xubuntu.org/ , https://xubuntu.org/download/#lts (same issue as mint).
 - ChromeOS Flex ~*6.8*GB (the .bin it provides needs to be renamed as a .img) prefer not as not in the spirit of endOf10 and FOSS and *very* large file https://dl.google.com/chromeos-flex/images/latest.bin.zip
-
 - solus budgie ~3GB https://getsol.us/ https://downloads.getsol.us/isos/2025-01-26/Solus-Budgie-Release-2025-01-26.iso
-- Pop_OS! ~ 3.0GB with nvidia drivers - seems trivial to install kde on it and easier than nvidia drivers on others with our low bandwidth
+- Pop_OS! ~ 3.0GB with nvidia drivers - seems trivial to install kde on it and easier than nvidia drivers on others with our low bandwidth https://iso.pop-os.org/22.04/amd64/nvidia/54/pop-os_22.04_amd64_nvidia_54.iso https://system76.com/pop/
 
 When installing distros onto USB sticks, make sure that they are DVD images (i.e., all files are available on the drive), we have very limited bandwidth (I think ~10Mb/s) and I want to prioritise this for packages. Also, flash the drives using Ventoy (even if three is only 1 distro on the drive), this allows us to re-image the drive by only copying files and not requiring us to flash it normally. If Ventoy uses up too much space, as to prevent flashing the drive, then don't use it. 
 
