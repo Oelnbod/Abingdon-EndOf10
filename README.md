@@ -15,7 +15,7 @@ Don't bother loading up chromeos as the library computers are chromeboxes - so w
 
 - **mint** ~3GB https://www.linuxmint.com/ , https://www.linuxmint.com/edition.php?id=319 (not direct link, as multiple servers).  A lot of people seem to like the Cinnamon DE, but I'm not such a fan. 
 
-- **Ubuntu** ~5.9GB [https://ubuntu.com/](https://ubuntu.com/desktop), https://releases.ubuntu.com/24.04.2/ubuntu-24.04.2-desktop-amd64.iso  A bit different and very popular if people want to try the GNOME DE (that isn't heavily customised like Zorin), its popularity and community size is a benefit aswel.  
+- **Ubuntu** ~5.9GB [https://ubuntu.com/](https://ubuntu.com/desktop), https://releases.ubuntu.com/24.04.2/ubuntu-24.04.2-desktop-amd64.iso  A bit different and very popular if people want to try the GNOME DE (that isn't heavily customised like Zorin), its popularity and community size is a benefit as well.  
 
 - **kubuntu** ~4.2GB https://kubuntu.org/ , https://cdimage.ubuntu.com/kubuntu/releases/24.04.2/release/kubuntu-24.04.2-desktop-amd64.iso  More mainstream than fedora KDE, so I will only bring one. But it is a much larger image. We could bring both and just swap the relevant one in depending on installer availability. 
   
